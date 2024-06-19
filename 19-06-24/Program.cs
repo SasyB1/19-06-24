@@ -12,6 +12,8 @@
             conto.ApriConto(1000);
             NameList nameList = new NameList();
             nameList.CercaUtente();
+            Algoritmo algoritmo = new Algoritmo();
+            algoritmo.InserisciNumero();
         }
     }
 }
